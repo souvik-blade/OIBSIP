@@ -2,3 +2,5 @@
 TASKS FOR OASIS INFOBYTE 
 
 TASK-2 LOGO
+
+![TASK-2 LOGO_OIBSIP](https://github.com/souvik-blade/OIBSIP/assets/104029276/d0428d3b-38a6-42dc-9655-110a85ef4c47)
